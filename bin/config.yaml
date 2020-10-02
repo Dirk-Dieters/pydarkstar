@@ -1,8 +1,8 @@
 # ah
-name: Zissou
+name: Sylbot
 
 # basic
-verbose: true
+verbose: false
 silent: false
 
 # input
@@ -15,14 +15,14 @@ backup: true
 
 # sql
 hostname: 127.0.0.1
-database: dspdb
+database: tpzdb
 username: root
-password: ????
+password: wolfkin
 fail: true
 
 # broker
 restock: 3600
-tick: 30
+tick: 271433
 
 # scrub
 itemids: []
